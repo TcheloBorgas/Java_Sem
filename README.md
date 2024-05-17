@@ -22,6 +22,7 @@ git clone https://github.com/TcheloBorgas/task-management-frontend.git
 # Estrutura do Projeto
 A estrutura do projeto é a seguinte:
 
+```bash
 taskmanagement/
 ├── src/
 │   ├── main/
@@ -48,7 +49,7 @@ taskmanagement/
 ├── mvnw.cmd
 ├── pom.xml
 └── README.md
-
+```
 
 # Executando a Aplicação
 ## Usando o Maven
